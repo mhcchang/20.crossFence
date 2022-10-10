@@ -1,0 +1,24 @@
+﻿  ZhSmartAlerm.cpp
+g:\zhy_work\02.code\20.crossfence\crossfence\zhsmartalerm.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+g:\zhy_work\02.code\20.crossfence\crossfence\zhsmartalerm.cpp(69): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+g:\zhy_work\02.code\20.crossfence\crossfence\zhsmartalerm.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+g:\zhy_work\02.code\20.crossfence\crossfence\zhsmartalerm.cpp(121): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+g:\zhy_work\02.code\20.crossfence\crossfence\zhsmartalerm.cpp(210): warning C4305: “return”: 从“int”到“bool”截断
+g:\zhy_work\02.code\20.crossfence\crossfence\zhsmartalerm.cpp(515): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+  ZhcvMath.cpp
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(306): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(329): error C3867: “std::vector<ZhcvMath::Point2D,std::allocator<_Ty>>::size”: 非标准语法；请使用 "&" 来创建指向成员的指针
+          with
+          [
+              _Ty=ZhcvMath::Point2D
+          ]
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(351): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(353): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(355): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(357): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\zhy_work\02.code\20.crossfence\crossfence\zhcvmath.cpp(377): warning C4018: “<”: 有符号/无符号不匹配
+  CrossFence.cpp
+  正在生成代码...
